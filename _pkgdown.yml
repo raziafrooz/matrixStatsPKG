@@ -1,0 +1,8 @@
+url: ~
+template:
+  bootstrap: 5
+  bootswatch: minty
+  bslib:
+    pkgdown-nav-height: 100px
+  theme: breeze-light
+
